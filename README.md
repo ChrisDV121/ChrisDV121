@@ -29,7 +29,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/ChrisDV121/ChrisDV121/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
